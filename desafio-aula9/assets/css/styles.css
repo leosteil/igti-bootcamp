@@ -7,7 +7,7 @@ li {
 	cursor: pointer;
 }
 
-.disableButton {
+.deleteButton {
 	color: white;
 	font-weight: bold;
 	background-color: darkred;
